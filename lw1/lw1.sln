@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BinaryDataRepresentation", "lw1\BinaryDataRepresentation.csproj", "{0C354106-8067-4695-B5B8-9AE59E73F655}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BitOperations", "BitOperations\BitOperations.csproj", "{7F2417AD-857E-46F8-81C4-C19DFDABD575}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ModuleArithmetic", "ModuleArithmetic\ModuleArithmetic.csproj", "{83E3E1A1-95CB-462B-82B4-0542F877199E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ModuleArithmeticOnPolynomials", "ModuleArithmeticOnPolynomials\ModuleArithmeticOnPolynomials.csproj", "{B0BE18F1-2270-466D-9133-34989948D133}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CheckNumberForPrime", "CheckNumberForPrime\CheckNumberForPrime.csproj", "{4CE6F8E3-C862-440F-8DB2-144AD57B994A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BigIntegerLib", "BigIntegerLib\BigIntegerLib.csproj", "{96297C4E-2120-46E4-B619-FC8859E34539}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0C354106-8067-4695-B5B8-9AE59E73F655}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C354106-8067-4695-B5B8-9AE59E73F655}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C354106-8067-4695-B5B8-9AE59E73F655}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C354106-8067-4695-B5B8-9AE59E73F655}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F2417AD-857E-46F8-81C4-C19DFDABD575}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F2417AD-857E-46F8-81C4-C19DFDABD575}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F2417AD-857E-46F8-81C4-C19DFDABD575}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F2417AD-857E-46F8-81C4-C19DFDABD575}.Release|Any CPU.Build.0 = Release|Any CPU
+		{83E3E1A1-95CB-462B-82B4-0542F877199E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83E3E1A1-95CB-462B-82B4-0542F877199E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83E3E1A1-95CB-462B-82B4-0542F877199E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83E3E1A1-95CB-462B-82B4-0542F877199E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B0BE18F1-2270-466D-9133-34989948D133}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0BE18F1-2270-466D-9133-34989948D133}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0BE18F1-2270-466D-9133-34989948D133}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0BE18F1-2270-466D-9133-34989948D133}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4CE6F8E3-C862-440F-8DB2-144AD57B994A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CE6F8E3-C862-440F-8DB2-144AD57B994A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CE6F8E3-C862-440F-8DB2-144AD57B994A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CE6F8E3-C862-440F-8DB2-144AD57B994A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{96297C4E-2120-46E4-B619-FC8859E34539}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96297C4E-2120-46E4-B619-FC8859E34539}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96297C4E-2120-46E4-B619-FC8859E34539}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96297C4E-2120-46E4-B619-FC8859E34539}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {46B0F58F-BB04-47BF-B778-3F7216A59130}
+	EndGlobalSection
+EndGlobal
